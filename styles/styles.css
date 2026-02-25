@@ -1,0 +1,15 @@
+.redMessage {
+    color: red;
+	font-size: 20px;
+	border: 2px solid red; 	 /* spessore, stile, colore */
+    padding: 2px;          	 /* spazio tra testo e bordo */
+    border-radius: 0;  
+}
+
+.greenMessage {
+    color: green;
+	font-size: 20px;
+	border: 2px solid green; /* spessore, stile, colore */
+    padding: 2px;            /* spazio tra testo e bordo */
+    border-radius: 0;  
+}
